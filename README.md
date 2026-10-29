@@ -1,8 +1,8 @@
 # Assignment 6: Technical Analysis using R, Visualization Phase
 
-**Course:** BDA400 - Data Science Tools and Techniques
-**Student:** John Diaz
-**Repository:** https://github.com/johndi24221614-web/TechnicalAnalysis-Assignment6
+- **Course:** BDA400 - Data Science Tools and Techniques
+- **Student:** John Diaz
+- **Repository:** https://github.com/johndi24221614-web/TechnicalAnalysis-Assignment6
 
 ## Project description
 
